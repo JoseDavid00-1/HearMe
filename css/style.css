@@ -1,0 +1,19 @@
+.bg{
+    background-image: url(../img/login.jpg);
+    background-position: center center;
+    background-size: cover ;
+    transition-property: background;
+    transition-duration:20s ; 
+    transition: 1.5s ease-in-out;
+
+}
+
+.bg:hover{
+    background: url(../img/login2.png);
+    
+     background-repeat: no-repeat;  
+       background-size: cover;  
+      background-position: center center; 
+    
+    
+} 
